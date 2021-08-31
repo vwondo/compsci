@@ -11,9 +11,11 @@ COMP2041 Software Construction: Techniques and Tools - 20T2
 COMP2521 Data Structures and Algorithms - 19T3  
 COMP2511 Object-Oriented Design & Programming - 20T3  
 COMP3141 Software System Design and Implementation - 20T2  
-COMP3231 Operating Systems - 21T1
+COMP3231 Operating Systems - 21T1  
 COMP3311 Database Systems - 20T3  
 COMP3331 Computer Networks and Applications - 20T1  
 COMP3411 Artificial Intelligence - 20T1  
+COMP3511 Human Computer Interaction - 21T2  
 COMP6080 Web Front-End Programming - 20T3  
-COMP6841 Extended Security Engineering and Cyber Security - 21T1
+COMP6771 Advanced C++ Programming - 21T2  
+COMP6841 Extended Security Engineering and Cyber Security - 21T1  
