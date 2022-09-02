@@ -20,5 +20,8 @@ COMP3511 Human Computer Interaction - 21T2
 COMP3900 Computer Science Project - 21T3  
 COMP4920 Professional Issues and Ethics in Information Technology - 21T3  
 COMP6080 Web Front-End Programming - 20T3  
+COMP6443 Web Application Security and Testing - 22T2  
+COMP6721 (In-)Formal Methods: The Lost Art - 22T2  
 COMP6771 Advanced C++ Programming - 21T2  
 COMP6841 Extended Security Engineering and Cyber Security - 21T1  
+COMP9321 Data Services Engineering - 22T1  
